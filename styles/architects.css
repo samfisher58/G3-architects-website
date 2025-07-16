@@ -271,7 +271,7 @@ footer {
 
 #experience-badge {
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 5px;
 }
 
 footer {
@@ -283,7 +283,7 @@ footer {
     padding: 0px;
 }
 }
-}
+
 
 /* medium size device */
 @media screen and (min-width: 576px) and (max-width :992px) {
