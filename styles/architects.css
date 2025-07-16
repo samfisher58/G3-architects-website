@@ -259,13 +259,12 @@ footer {
         margin-left: 20px;
     }
 
-    .facts-container,
-    {
+    .facts-container{
     justify-items: center;
     gap: 24px;
 }
 
-..sponsor-companies {
+.sponsor-companies {
     justify-items: center;
     gap: 50px;
 }
